@@ -1,0 +1,3 @@
+fern,7
+cactus,21
+basil,2

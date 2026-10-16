@@ -1,0 +1,4 @@
+pancakes,20
+tomato soup,45
+ask Grandma about the pie
+green salad,10

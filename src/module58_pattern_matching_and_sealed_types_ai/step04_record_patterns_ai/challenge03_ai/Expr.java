@@ -1,0 +1,5 @@
+// AI-Generated
+package module58_pattern_matching_and_sealed_types_ai.step04_record_patterns_ai.challenge03_ai;
+
+public sealed interface Expr permits Num, Add, Mul {
+}

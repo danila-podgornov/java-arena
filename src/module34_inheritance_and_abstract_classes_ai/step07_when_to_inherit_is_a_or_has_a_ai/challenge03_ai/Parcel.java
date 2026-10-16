@@ -1,0 +1,6 @@
+// AI-Generated
+package module34_inheritance_and_abstract_classes_ai.step07_when_to_inherit_is_a_or_has_a_ai.challenge03_ai;
+
+public class Parcel {
+
+}

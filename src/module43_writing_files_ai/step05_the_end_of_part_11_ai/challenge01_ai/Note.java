@@ -1,0 +1,25 @@
+// AI-Generated
+package module43_writing_files_ai.step05_the_end_of_part_11_ai.challenge01_ai;
+
+public class Note {
+    private String title;
+    private String text;
+
+    public Note(String title, String text) {
+        this.title = title;
+        this.text = text;
+    }
+
+    public String getTitle() {
+        return this.title;
+    }
+
+    public String getText() {
+        return this.text;
+    }
+
+    @Override
+    public String toString() {
+        return this.title + ": " + this.text;
+    }
+}

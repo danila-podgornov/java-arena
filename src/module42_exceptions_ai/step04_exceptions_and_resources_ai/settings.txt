@@ -1,0 +1,5 @@
+# photo app
+volume=7
+
+# colors
+theme=dark

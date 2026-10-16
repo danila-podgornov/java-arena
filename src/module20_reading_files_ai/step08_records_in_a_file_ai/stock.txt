@@ -1,0 +1,4 @@
+pens;40
+glue;4
+paper;120
+tape;0
