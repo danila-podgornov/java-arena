@@ -11,8 +11,8 @@ public class Challenge01Ai {
      * 2. Change the names everywhere they appear, in the print line too.
      */
     public static void main(String[] args) {
-        String first name = "Grace";
-        String last name = "Hopper";
-        System.out.println(first name + " " + last name);
+        String firstName = "Grace";
+        String lastName = "Hopper";
+        System.out.println(firstName + " " + lastName);
     }
 }

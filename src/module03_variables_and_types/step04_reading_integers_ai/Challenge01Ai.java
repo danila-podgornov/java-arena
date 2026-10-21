@@ -14,7 +14,7 @@ public class Challenge01Ai {
      */
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        int number = Integer.___(scanner.nextLine());
+        int number = Integer.valueOf(scanner.nextLine());
         System.out.println("You gave the number " + number);
     }
 }

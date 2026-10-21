@@ -14,9 +14,9 @@ public class Challenge02Ai {
      * 2. Change the names in all four lines.
      */
     public static void main(String[] args) {
-        int 2ndPlace = 7;
-        int bonus! = 3;
-        System.out.println("Second place: " + 2ndPlace);
-        System.out.println("Bonus: " + bonus!);
+        int secondPlace = 7;
+        int bonus = 3;
+        System.out.println("Second place: " + secondPlace);
+        System.out.println("Bonus: " + bonus);
     }
 }

@@ -12,9 +12,9 @@ public class Challenge03Ai {
      */
     public static void main(String[] args) {
         // Riverton is a made-up town.
-        String a = "Riverton";
-        int b = 48200;
-        double c = 31.5;
-        System.out.println(a + " has " + b + " people and covers " + c + " square km.");
+        String city = "Riverton";
+        int population = 48200;
+        double area = 31.5;
+        System.out.println(city + " has " + population + " people and covers " + area + " square km.");
     }
 }
